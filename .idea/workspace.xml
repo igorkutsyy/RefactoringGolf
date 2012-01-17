@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5d79f269-aa0b-4b28-944a-6a6f2bb1e031" name="Default" comment="" />
     <ignored path="RefactoringGolf.iws" />
@@ -63,37 +66,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Hole3After.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/develogical/golf/hole3/Hole3After.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="13" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Hole5Before.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/develogical/golf/hole5/Hole5Before.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="0" selection-start="1805" selection-end="1928" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Hole4Before.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/develogical/golf/hole4/Hole4Before.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Hole4After.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/develogical/golf/hole4/Hole4After.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="1" selection-start="633" selection-end="633" vertical-scroll-proportion="0.52565706">
+            <state line="15" column="129" selection-start="376" selection-end="376" vertical-scroll-proportion="0.43269232">
               <folding />
             </state>
           </provider>
@@ -102,8 +78,20 @@
       <file leaf-file-name="Hole1After.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/develogical/golf/hole1/Hole1After.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="36" selection-start="453" selection-end="453" vertical-scroll-proportion="0.0">
+            <state line="9" column="13" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Hole1Before.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/develogical/golf/hole1/Hole1Before.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="71" selection-start="454" selection-end="454" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#307#320#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -111,8 +99,11 @@
       <file leaf-file-name="Hole2Before.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/develogical/golf/hole2/Hole2Before.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="20" selection-start="241" selection-end="241" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="32" column="42" selection-start="948" selection-end="948" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#307#320#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -120,7 +111,7 @@
       <file leaf-file-name="Hole2After.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/develogical/golf/hole2/Hole2After.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="0" selection-start="868" selection-end="868" vertical-scroll-proportion="0.0">
+            <state line="30" column="20" selection-start="876" selection-end="888" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -147,7 +138,27 @@
       <file leaf-file-name="Hole3Before.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/develogical/golf/hole3/Hole3Before.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="13" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0">
+            <state line="18" column="56" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Hole3After.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/develogical/golf/hole3/Hole3After.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="58" selection-start="338" selection-end="368" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Instruction.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/develogical/golf/Instruction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="13" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -168,15 +179,11 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/com/develogical/golf/hole1/IntroBefore.java" />
         <option value="$PROJECT_DIR$/src/com/develogical/golf/TurnInstruction.java" />
         <option value="$PROJECT_DIR$/src/com/develogical/golf/MoveInstruction.java" />
-        <option value="$PROJECT_DIR$/src/com/develogical/golf/hole2/Hole2Before.java" />
         <option value="$PROJECT_DIR$/src/com/develogical/golf/hole2/Hole2After.java" />
         <option value="$PROJECT_DIR$/src/com/develogical/golf/hole2/Hole3Before.java" />
-        <option value="$PROJECT_DIR$/src/com/develogical/golf/hole3/Hole3Before.java" />
         <option value="$PROJECT_DIR$/src/com/develogical/golf/Instruction.java" />
-        <option value="$PROJECT_DIR$/src/com/develogical/golf/hole3/Hole3After.java" />
         <option value="$PROJECT_DIR$/src/com/develogical/golf/hole5/NumberSequence.java" />
         <option value="$PROJECT_DIR$/src/com/develogical/golf/hole5/Hole5After.java" />
         <option value="$PROJECT_DIR$/src/com/develogical/golf/hole4/Hole5Before.java" />
@@ -184,6 +191,10 @@
         <option value="$PROJECT_DIR$/src/com/develogical/golf/hole1/Hole1After.java" />
         <option value="$PROJECT_DIR$/src/com/develogical/golf/hole4/Hole4Before.java" />
         <option value="$PROJECT_DIR$/src/com/develogical/golf/hole4/Hole4After.java" />
+        <option value="$PROJECT_DIR$/src/com/develogical/golf/hole1/Hole1Before.java" />
+        <option value="$PROJECT_DIR$/src/com/develogical/golf/hole2/Hole2Before.java" />
+        <option value="$PROJECT_DIR$/src/com/develogical/golf/hole3/Hole3After.java" />
+        <option value="$PROJECT_DIR$/src/com/develogical/golf/hole3/Hole3Before.java" />
       </list>
     </option>
   </component>
@@ -407,9 +418,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.develogical.golf.hole2" />
       <recent name="com.develogical.golf.hole4" />
       <recent name="com.develogical.golf.hole5" />
-      <recent name="com.develogical.golf.hole2" />
       <recent name="com.develogical.golf.hole1" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
@@ -508,6 +519,8 @@
   <component name="SvnConfiguration" maxAnnotateRevisions="500">
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
     <option name="LAST_MERGED_REVISION" />
     <option name="MERGE_DRY_RUN" value="false" />
     <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
@@ -518,6 +531,7 @@
     <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
     <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
     <option name="FORCE_UPDATE" value="false" />
+    <configuration useDefault="true">$USER_HOME$/.subversion_IDEA</configuration>
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
   </component>
   <component name="TaskManager">
@@ -534,6 +548,7 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32900944" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -543,11 +558,10 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3995078" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24358974" sideWeight="0.9928" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24358974" sideWeight="0.6709906" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -604,25 +618,14 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/develogical/golf/TurnInstruction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="7" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/develogical/golf/MoveInstruction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="7" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/develogical/golf/hole1/Hole1Before.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/develogical/golf/Instruction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="1" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/develogical/golf/hole6/NumberSequence.java">
@@ -633,11 +636,6 @@
     <entry file="file://$PROJECT_DIR$/src/com/develogical/golf/hole6/Hole6Before.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="59" column="4" selection-start="1429" selection-end="1429" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/develogical/golf/hole3/Hole3After.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/develogical/golf/hole5/Hole5Before.java">
@@ -652,21 +650,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/develogical/golf/hole1/Hole1After.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="36" selection-start="453" selection-end="453" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/develogical/golf/hole2/Hole2Before.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="20" selection-start="241" selection-end="241" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/develogical/golf/hole2/Hole2After.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="868" selection-end="868" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/develogical/golf/hole5/Hole5After.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="59" column="4" selection-start="1428" selection-end="1428" vertical-scroll-proportion="0.0" />
@@ -677,14 +660,73 @@
         <state line="7" column="0" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/develogical/golf/hole1/Hole1After.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/develogical/golf/hole1/Hole1Before.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="71" selection-start="454" selection-end="454" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#307#320#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/develogical/golf/hole2/Hole2Before.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="42" selection-start="948" selection-end="948" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#307#320#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/develogical/golf/MoveInstruction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="7" selection-start="38" selection-end="38" vertical-scroll-proportion="0.057692308">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/develogical/golf/hole2/Hole2After.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="20" selection-start="876" selection-end="888" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/develogical/golf/hole3/Hole3After.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="58" selection-start="338" selection-end="368" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/develogical/golf/Instruction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="13" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/develogical/golf/hole3/Hole3Before.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0" />
+        <state line="18" column="56" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/develogical/golf/hole4/Hole4After.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="1" selection-start="633" selection-end="633" vertical-scroll-proportion="0.52565706">
+        <state line="15" column="129" selection-start="376" selection-end="376" vertical-scroll-proportion="0.43269232">
           <folding />
         </state>
       </provider>

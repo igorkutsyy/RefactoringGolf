@@ -15,16 +15,16 @@ public class Hole1Before {
 
         String[] parts = command.split(" ");
         String direction = parts[0];
-        String amount = parts[1];
 
+        int amount = Integer.parseInt(parts[1]);
         if (direction.equals("foward")) {
-            instructions.add(new MoveInstruction(Integer.parseInt(amount)));
+            instructions.add(new MoveInstruction(amount));
         }
         if (direction.equals("left")) {
-            instructions.add(new TurnInstruction(Integer.parseInt(amount)));
+            instructions.add(new TurnInstruction(amount));
         }
         if (direction.equals("right")) {
-            instructions.add(new TurnInstruction(-1 * Integer.parseInt(amount)));
+            instructions.add(new TurnInstruction(-1 * amount));
         }
 
     }
